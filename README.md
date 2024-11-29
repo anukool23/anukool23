@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as MERN full Stack Developer
+Skilled Full Stack Web Developer leveraging expertise in JavaScript and MERN stack to create scalable web applications. Proficient in designing efficient APIs, managing databases, and implementing frontend components. Adept at harnessing Generative AI, rapidly learning new technologies, and collaborating effectively to enhance development processes. 
 
 
 ## 🌐 Socials:
