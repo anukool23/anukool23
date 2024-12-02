@@ -58,7 +58,7 @@ Skilled Full Stack Web Developer leveraging expertise in JavaScript and MERN sta
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anukool23&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukool23&" alt="anukool23" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukool23" alt="anukool23" />
 </div>
 
 ## 🏆 GitHub Trophies
