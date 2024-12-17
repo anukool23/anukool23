@@ -57,8 +57,9 @@ Skilled Full Stack Web Developer leveraging expertise in JavaScript and MERN sta
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anukool23&show_icons=true&hide_border=true&theme=dark"  alt="Github Contributions"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anukool23&show_icons=true&hide_border=false"  alt="Github Contributions"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukool23" alt="Github Streak Data" />
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anukool23&show_icons=true&hide_border=true&theme=dark"  alt="Github Contributions"/> -->
 <!--    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukool23&theme=ocean_dark&hide_border=false" alt="Github Streak Data" /> -->
 
 </div>
