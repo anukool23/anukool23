@@ -60,15 +60,6 @@ Skilled Full Stack Web Developer leveraging expertise in JavaScript and MERN sta
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anukool23&show_icons=true&hide_border=true&theme=dark"  alt="Github Contributions"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukool23&theme=ocean_dark&hide_border=false" alt="Github Streak Data" />
 </div>
-![Anukool's Github Profile Views](https://komarev.com/ghpvc/?username=anukool23&color=blueviolet)  
-
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/anukool23/anukool23/blob/master/generated/overview.svg)
-![](https://github.com/anukool23/anukool23/blob/master/generated/languages.svg)
-
-</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anukool23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
