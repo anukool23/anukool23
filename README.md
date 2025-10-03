@@ -9,7 +9,7 @@ Skilled Full Stack Web Developer leveraging expertise in JavaScript and MERN sta
 ## 👨🏻‍💻 About Me:
 
 
-- 🙋‍♂️ All about me is at **[My Website](https://anukool.com/)**
+- 🙋‍♂️ All about me is at **[My Website](https://anukool.me/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
